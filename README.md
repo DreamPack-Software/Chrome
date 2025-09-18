@@ -1,4 +1,4 @@
-# A browser built by Google for you.
+# A web-browser built by Google for you.
 
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/8222e293-be3e-4c4b-9224-9beff2cea00a" /> <img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/3d8391d4-48e8-4d6c-8efb-650aa2f822b9" />
 
